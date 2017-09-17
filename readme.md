@@ -84,6 +84,8 @@ You can inspect redux actions and store changes at runtime using the [Redux Deve
 2. [Configure redux store to use extension(If available)](src/views/store.js#L7)
 3. Reload and go to the 'Redux' tab in the browser's development tools
 
+***This boilerplate is based on [Preact Starter](https://github.com/lukeed/preact-starter) by [Luke Edwards](https://github.com/lukeed).***
+
 ## License
 
 MIT © [Ganapati V S](http://meetguns.com)
